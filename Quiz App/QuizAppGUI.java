@@ -80,7 +80,7 @@ public class QuizAppGUI {
             }
         }
     }
-
+//main function
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new QuizAppGUI());
     }
